@@ -6,7 +6,7 @@ Portable Environments
 
 Problem exporting yaml file in linux to use in macos: ResolvePackageNotFound problem
 
-Faster solution: recreate env with seme packages:
+Faster solution: recreate env with same packages:
 
 ```bash
 conda config --add channels conda-forge
